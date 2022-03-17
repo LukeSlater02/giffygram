@@ -14,19 +14,83 @@
   "messages": [],
   "posts": [
     {
-        "id": 1,
-        "imageURL": "https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif",
-        "userId": 1,
-        "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-        "timestamp": 1561695022812,
-        "title": "Enhanced global utilisation"
-    }
-],
-"likes": [
+      "id": 1,
+      "imageURL": "https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif",
+      "userId": 1,
+      "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+      "timestamp": 1561695022812,
+      "title": "Enhanced global utilisation"
+    },
     {
-        "id": 1,
-        "userId": 1,
-        "postId": 2
+      "title": "hello",
+      "imageURL": "https://giphy.com/gifs/reactionseditor-winona-ryder-26xBI73gWquCBBCDe",
+      "description": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "userId": 1,
+      "timestamp": 1647544858028,
+      "id": 2
+    },
+    {
+      "title": "HELLO 2",
+      "imageURL": "https://media3.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif?cid=790b7611f90bc57e7817089a584ff7e933950fa436e5ed18&rid=giphy.gif&ct=g",
+      "description": "WORK THIS TIME",
+      "userId": 1,
+      "timestamp": 1647545277440,
+      "id": 3
+    },
+    {
+      "title": "HELLO",
+      "imageURL": "https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif",
+      "description": "HEY",
+      "userId": 1,
+      "timestamp": 1647545340398,
+      "id": 4
+    },
+    {
+      "title": "THIS TIME ITS GONNA WORK",
+      "imageURL": "https://media0.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif?cid=790b76114452a1540b923211e5d04ee63d3cb1b5d9df5991&rid=giphy.gif&ct=g",
+      "description": "its tiem",
+      "userId": 1,
+      "timestamp": 1647545521895,
+      "id": 5
+    },
+    {
+      "title": "asdasd",
+      "imageURL": "sadasdsa",
+      "description": "dsadsa",
+      "userId": 1,
+      "timestamp": 1647545711061,
+      "id": 6
+    },
+    {
+      "title": "WORK BITCH",
+      "imageURL": "https://64.media.tumblr.com/tumblr_m1dx62vvEZ1qgawlzo1_250.gif",
+      "description": "a",
+      "userId": 1,
+      "timestamp": 1647545854043,
+      "id": 7
+    },
+    {
+      "title": "",
+      "imageURL": "",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1647545954297,
+      "id": 8
+    },
+    {
+      "title": "dadsa",
+      "imageURL": "https://64.media.tumblr.com/tumblr_m1dx62vvEZ1qgawlzo1_250.gifv",
+      "description": "sdasda",
+      "userId": 1,
+      "timestamp": 1647546002521,
+      "id": 9
     }
-]
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "postId": 2
+    }
+  ]
 }
